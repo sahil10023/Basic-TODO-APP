@@ -9,7 +9,7 @@ document.querySelector("button").onclick = () => {
 
     const deleteButtom = document.createElement("button");
     deleteButtom.innerText = "Delete";
-    deleteButtom.classList.add("delBtn");
+    deleteButtom.style.marginLeft = "10px"
 
     deleteButtom.addEventListener("click", () => {
         deleteButtom.parentElement.remove();
