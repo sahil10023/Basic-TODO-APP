@@ -18,6 +18,7 @@ A simple and basic To-Do List web application built with HTML, CSS, and JavaScri
 
 1. To add a task, type it in the input field and click the "Add" button or press Enter.
 2. To mark a task as completed, click on the task item.
+3. To delete a task, click the Delete button next to the task.
 
 ## Technologies Used
 
